@@ -1,5 +1,8 @@
 ### Hi👋 There!!
 
+![title](https://media.giphy.com/media/KCSJ0Nm8bc5owOdngX/giphy-downsized-large.gif)
+
+
 <!--
 **new-pow/new-pow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
