@@ -1,4 +1,4 @@
-![](https://media.giphy.com/media/3o7btZ3T6y3JTmjg4w/giphy.gif)
+![](https://media.giphy.com/media/xzfzZAkAWzQyHt5sI4/giphy-downsized-large.gif) {: width="100%"}
 
 <!--
 **new-pow/new-pow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
