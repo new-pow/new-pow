@@ -1,6 +1,5 @@
-### Hi👋 There!!
 
-![title](https://media.giphy.com/media/KCSJ0Nm8bc5owOdngX/giphy-downsized-large.gif)
+<p align="center"><img src="https://media.giphy.com/media/JfX6hPf6zlDNPX8mYP/giphy.gif"></p>
 
 
 <!--
