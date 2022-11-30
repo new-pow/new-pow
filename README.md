@@ -3,7 +3,7 @@
 
 
 <a href = "https://www.notion.so/saehim/444a0f78843b4ef7b4c477ffd7da222c?v=176f6517fe3e40dba1a898756224b609">
-<img src="https://img.shields.io/badge/today I learned-#000000?style=for-the-badge&logo=notion&logoColor=white">
+<img src="https://img.shields.io/badge/today%I%learned-#000000?style=for-the-badge&logo=notion&logoColor=white">
 </a>
   
 <!--
