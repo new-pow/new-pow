@@ -1,6 +1,25 @@
 
 <div align="center">
-  <p align="center"><img src="https://media.giphy.com/media/fsvV4iLHI9j5Rw2LRh/giphy-downsized-large.gif"></p>
+  <p align="center">
+<!--     <img src="https://media.giphy.com/media/fsvV4iLHI9j5Rw2LRh/giphy-downsized-large.gif"> -->
+     .              +   .                .   . .     .  .
+                   .                    .       .     *
+  .       *                        . . . .  .   .  + .
+            "You Are Here"            .   .  +  . . .
+.                 |             .  .   .    .    . .
+                  |           .     .     . +.    +  .
+                 \|/            .       .   . .
+        . .       V          .    * . . .  .  +   .
+           +      .           .   .      +
+                            .       . +  .+. .
+  .                      .     . + .  . .     .      .
+           .      .    .     . .   . . .        ! /
+      *             .    . .  +    .  .       - O -
+          .     .    .  +   . .  *  .       . / |
+               . + .  .  .  .. +  .
+.      .  .  .  *   .  *  . +..  .            *
+ .      .   . .   .   .   . .  +   .    .            +
+  </p>
     
   ### 🔥 Tech Stack
     
