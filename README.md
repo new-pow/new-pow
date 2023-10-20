@@ -1,16 +1,22 @@
-### Hi there 👋
+## About me 👋
 
-<!--
-**new-pow/new-pow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 
 
-Here are some ideas to get you started:
+## Tech
+| Classification |	Skills |
+|----------------|---------|
+| Backend | ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) |
+| Database |  |
+| DevOps | AWS Azure Heroku Docker Kubernetes |
+| Frontend | |
+| Language | |
+| ETC |	Git |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Project
+
+## Activity
+
+
+## More about ...
+
