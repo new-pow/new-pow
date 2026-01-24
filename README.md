@@ -1,4 +1,12 @@
-### Hi there 👋
+# 만나서 반갑습니다 👋
+
+사회학을 전공하고 지역 커뮤니티 기획자로 일해오다,
+생각을 빠르게 현실로 만들 수 있다는 점에 이끌려
+개발자가 되었습니다.
+
+사람의 맥락을 생각하며 코드를 쓰고자 노력합니다.
+
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-pow&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
