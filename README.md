@@ -15,8 +15,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=new-pow&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Leetcode](https://leetcard.jacoblin.cool/new-pow)](https://leetcode.com/new-pow)
-
 <!--
 **new-pow/new-pow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
