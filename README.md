@@ -9,6 +9,7 @@
 ---
 
 - Blog: [Blog](https://new-pow.tistory.com/)
+- Email: i.newpow@gmail.com
 
 ---
 
