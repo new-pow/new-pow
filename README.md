@@ -13,6 +13,8 @@
 
 ---
 
+[![Codewars](https://www.codewars.com/users/new-pow/badges/small)](https://www.codewars.com/users/new-pow)
+
 <!--
 **new-pow/new-pow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
